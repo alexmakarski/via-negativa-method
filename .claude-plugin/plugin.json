@@ -1,0 +1,10 @@
+{
+  "name": "via-negativa",
+  "description": "Via Negativa: a systems audit method that improves any system through subtraction before addition. Finds what to remove, what creates fragility, what threatens survival, and what not to add, before any growth or tooling is recommended.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Makarski"
+  },
+  "repository": "https://github.com/alexmakarski/via-negativa-method",
+  "license": "MIT"
+}
