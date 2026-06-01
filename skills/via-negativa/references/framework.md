@@ -284,3 +284,18 @@ Priority hierarchy (resolve all conflicts in this order):
 7. Pursue Growth
 
 Final test, a completed analysis answers: What to remove first? Reduce first? Isolate first? Test first? Not add? What threatens survival? What creates fragility? What incentive causes damage? What complexity should disappear? What action happens tomorrow?
+
+---
+
+## Intellectual lineage
+
+This method operationalizes ideas drawn largely from Nassim Nicholas Taleb's
+Incerto, especially Antifragile and Skin in the Game: via negativa (improvement by
+removal), antifragility, optionality, tail risk and the Black Swan, the primacy of
+avoiding ruin, concentration as a source of fragility, and skin in the game as the
+real test of an incentive. The term via negativa is older still, from apophatic
+theology, defining a thing by what it is not; Taleb adapted it to risk and systems.
+
+Via Negativa is an original synthesis that turns those principles into a repeatable
+audit. It is not Taleb's work and makes no claim to represent it. Any errors or
+oversimplifications are the author's.

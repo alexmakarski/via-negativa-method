@@ -88,6 +88,15 @@ When recommendations conflict, Via Negativa always resolves in this order:
 6. Improve Efficiency
 7. Pursue Growth
 
+## Intellectual lineage
+
+Via Negativa operationalizes ideas drawn largely from Nassim Nicholas Taleb's
+Incerto (Antifragile, Skin in the Game): via negativa, antifragility, optionality,
+tail risk, the primacy of avoiding ruin, and skin in the game. It is an original
+synthesis that turns those principles into a repeatable audit, not Taleb's work and
+no claim to represent it. See [ViaNegativa-Method.md](ViaNegativa-Method.md) for
+the full note.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).

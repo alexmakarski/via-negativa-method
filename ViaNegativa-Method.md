@@ -122,6 +122,23 @@ failure Section 4 exists to catch, so the score is used only on Full audits, nev
 leads, and never substitutes for the narrative. A score should start a
 conversation. It should never end one.
 
+## Intellectual Lineage
+
+Via Negativa operationalizes ideas drawn largely from Nassim Nicholas Taleb's
+Incerto, in particular Antifragile and Skin in the Game. The debt is direct: via
+negativa as improvement by removal, antifragility, optionality, tail risk and the
+Black Swan, the primacy of avoiding ruin, concentration as a source of fragility,
+and skin in the game as the real test of an incentive. The term via negativa is
+older than Taleb, originating in apophatic theology, where a thing is defined by
+what it is not; Taleb adapted it to risk and systems, and that is the sense used
+here.
+
+This method is an original synthesis that turns those principles into a repeatable
+audit with a fixed structure, role-locked critique, and an action contract. It is
+not Taleb's work and makes no claim to represent it. Where it oversimplifies a
+subtle idea into an operational rule, the fault is the author's, not his. Readers
+who want the real depth behind these principles should go to the Incerto directly.
+
 ## The Method Obeys Itself
 
 The framework refuses to grow by accumulation. A new section earns its place only
